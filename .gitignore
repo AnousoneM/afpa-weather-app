@@ -1,0 +1,5 @@
+# Pour ignorer les fichiers de node_modules
+node_modules
+
+# Pour ignorer les fichier MAC OS
+**/.DS_Store
